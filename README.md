@@ -1,1 +1,1 @@
-The executable in the build folder will run the python program Parser.py, allowing you to select a mapping workbook and will create a new excel file with the data parsed in sorted inside the build folder.
+The executable in the dist folder will run the python program Parser.py, allowing you to select a mapping workbook and will create a new excel file with the data parsed in sorted inside the dist folder.
